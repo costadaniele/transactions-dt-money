@@ -23,6 +23,30 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2024-05-27T15:27:00.561Z"
+    },
+    {
+      "description": "Notebook Mac",
+      "price": 20000,
+      "category": "Compra",
+      "type": "outcome",
+      "createdAt": "2024-05-28T14:49:28.787Z",
+      "id": 4
+    },
+    {
+      "description": "Notebook Mac",
+      "price": 20000,
+      "category": "Compra",
+      "type": "income",
+      "createdAt": "2024-05-28T14:49:46.693Z",
+      "id": 5
+    },
+    {
+      "description": "Bolo de banana",
+      "price": 50,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2024-05-28T15:22:24.437Z",
+      "id": 6
     }
   ]
 }

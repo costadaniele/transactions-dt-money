@@ -44,3 +44,14 @@
 
 `npm i @hookform/resolvers`
 
+## Axios - requisições
+
+`npm i axios`
+
+## Eslint 
+
+`npm i eslint @rocketseat/eslint-config -D`
+
+`npx eslint src --ext .tsx,.ts`
+
+`npm run lint:fix`
