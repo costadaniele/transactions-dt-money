@@ -55,3 +55,11 @@
 `npx eslint src --ext .tsx,.ts`
 
 `npm run lint:fix`
+
+## Extensões Chrome
+
+`react developer tools`
+
+## Use Context Selector
+
+`npm i use-context-selector scheduler`
